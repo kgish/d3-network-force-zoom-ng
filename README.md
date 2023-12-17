@@ -1,4 +1,4 @@
-# D3NetworkForceZoomNg
+# D3.js Network Force Zoom Mg
 
 D3.js network force demo using Angular with zoom and pan.
 
